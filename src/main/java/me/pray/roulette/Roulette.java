@@ -1,12 +1,12 @@
 package me.pray.roulette;
 
-import me.pray.roulette.Commands.RouletteCommand;
-import me.pray.roulette.Events.CloseRouletteInv;
-import me.pray.roulette.Events.EnteringCustomAmount;
-import me.pray.roulette.Events.RouletteInvClick;
-import me.pray.roulette.Logic.GameTracker;
-import me.pray.roulette.Logic.InventoryManager;
-import me.pray.roulette.Logic.SpinLogic;
+import me.pray.roulette.commands.RouletteCommand;
+import me.pray.roulette.events.CloseRouletteInv;
+import me.pray.roulette.events.EnteringCustomAmount;
+import me.pray.roulette.events.RouletteInvClick;
+import me.pray.roulette.logic.GameTracker;
+import me.pray.roulette.logic.InventoryManager;
+import me.pray.roulette.logic.SpinLogic;
 import net.milkbowl.vault.chat.Chat;
 import net.milkbowl.vault.economy.Economy;
 import net.milkbowl.vault.permission.Permission;

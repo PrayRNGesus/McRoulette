@@ -1,7 +1,7 @@
-package me.pray.roulette.Events;
+package me.pray.roulette.events;
 
-import me.pray.roulette.Logic.GameTracker;
-import me.pray.roulette.Logic.SpinLogic;
+import me.pray.roulette.logic.GameTracker;
+import me.pray.roulette.logic.SpinLogic;
 import me.pray.roulette.Roulette;
 import org.bukkit.Bukkit;
 import org.bukkit.Sound;

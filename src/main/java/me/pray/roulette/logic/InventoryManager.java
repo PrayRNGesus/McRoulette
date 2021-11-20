@@ -1,4 +1,4 @@
-package me.pray.roulette.Logic;
+package me.pray.roulette.logic;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;

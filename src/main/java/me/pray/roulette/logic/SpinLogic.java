@@ -1,4 +1,4 @@
-package me.pray.roulette.Logic;
+package me.pray.roulette.logic;
 
 import me.pray.roulette.Roulette;
 import net.milkbowl.vault.economy.EconomyResponse;

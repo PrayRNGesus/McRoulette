@@ -1,7 +1,7 @@
-package me.pray.roulette.Commands;
+package me.pray.roulette.commands;
 
-import me.pray.roulette.Logic.GameTracker;
-import me.pray.roulette.Logic.InventoryManager;
+import me.pray.roulette.logic.GameTracker;
+import me.pray.roulette.logic.InventoryManager;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
