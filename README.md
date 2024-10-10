@@ -11,7 +11,7 @@ McRoulette is a Minecraft plugin developed for version 1.16, allowing players to
 
 ## Installation
 
-1. Download the plugin from the repository.
+1. Clone and compile the plugin, here's a [simple tutorial](https://www.reddit.com/r/admincraft/comments/6afgsa/comment/dhe6fnj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) if you're unsure how to achieve that 
 2. Place the `.jar` file in the `plugins` folder of your Minecraft server.
 3. Restart the server to load the plugin.
 4. Configure the plugin using the configuration file in the `plugins/McRoulette` directory.
