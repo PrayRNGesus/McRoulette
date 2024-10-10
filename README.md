@@ -6,7 +6,6 @@ McRoulette is a Minecraft plugin developed for version 1.16, allowing players to
 
 - Roulette-style gameplay.
 - Player-friendly mechanics.
-- Configurable odds and payouts.
 - Lightweight and efficient.
 
 ## Installation
